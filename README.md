@@ -1,2 +1,4 @@
-# Security-arduino-uno-keybad-servo-motor![Glorious Jaiks](https://user-images.githubusercontent.com/61445797/220174009-220c7d50-a9e4-44e8-8aa4-d7c542d4f970.png)
+# Security-arduino-uno-keybad-servo-motor![Glorious Jaiks]
 https://www.tinkercad.com/things/8BRzOqBMmWv-mc-security-project/editel
+
+![Automatic door lock with password Arduino uno and servo](https://user-images.githubusercontent.com/61445797/220191407-ca9465de-a1f9-44e7-b2d2-eff4fdb695b7.png)
